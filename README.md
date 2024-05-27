@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Maarten Claes and I am currently a student in application development at PXL University College
 
 <!--
 **MaartenClaesPXL/MaartenClaesPXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
